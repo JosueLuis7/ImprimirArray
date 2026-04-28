@@ -1,3 +1,5 @@
+// Josué Luís Pimenta Alecrim
+// 1261948087
 public class App {
     public static void imprimirArray(int[] array) {
 
